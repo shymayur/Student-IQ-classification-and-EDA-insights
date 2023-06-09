@@ -84,5 +84,5 @@ c.	None of the above
 a.	Ordinary
 b.	Extraordinary
 
-# ML : Support Vector Machine
+# Performed Support Vector Machine Model and Exploratory Data Analysis in the above code files along with additional comments in each steps.
 
